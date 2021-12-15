@@ -76,3 +76,12 @@ section div button {
 section div button:hover {
     box-shadow: #121212 0 0 0 3px, transparent 0 0 0 0;
 }
+
+@media (max-width: 750px) {
+
+    body {
+        display: flex;
+        text-align: center;
+    }
+
+}
