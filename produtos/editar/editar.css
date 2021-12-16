@@ -218,6 +218,10 @@ main .image img {
     height: 100%;
   }
 
+  form {
+    flex-direction: column;
+  }
+
 
   main .editar input {
     width: 100%;
